@@ -1,10 +1,12 @@
 # メール送信設定
 ## 0.フォルダ構成 (作業後の状態)
+```bash
 ~ (/home/radxa/)
 　┗ .msmtprc
 　┗ Desktop
 　　┗ send_test_mail.py
 　　┗ alert_sample01.mp4
+```
 
 ## 1．msmtp（メール送信ツール）をインストール
 ```bash
