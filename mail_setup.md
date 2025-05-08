@@ -35,7 +35,7 @@ host smtp.gmail.com
 port 587
 from system@asx.bz
 user system@asx.bz
-password ybsoskgwayygdprk
+password ****************
 
 account default : gmail
 ```
