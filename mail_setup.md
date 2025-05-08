@@ -7,6 +7,7 @@
 　　┗ send_test_mail.py
 　　┗ alert_sample01.mp4
 ```
+<br>
 
 ## 1．msmtp（メール送信ツール）をインストール
 ```bash
